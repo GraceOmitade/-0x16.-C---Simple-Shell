@@ -1,3 +1,4 @@
+
 # 0x16. C - Simple Shell
  **By Spencer Cheng, featuring Julien Barbier**
  Project to be done in teams of 2 people (your team: Ezekafor hilda benita, Grace Omitade)
@@ -113,4 +114,4 @@ git shortlog -se \
   | perl -spe 's/^\s+\d+\s+//' \
   | sed -e '/^CommitSyncScript.*$/d' \
   > AUTHORS
-  ```
+100% checked  ```
